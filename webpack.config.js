@@ -9,6 +9,6 @@ module.exports = {
         path: __dirname,
         filename: "[name].js",
     },
-    watch: true,
+    watch: false,
     mode: "development",
 };
