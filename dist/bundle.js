@@ -15,7 +15,7 @@
   \****************************/
 /***/ ((module) => {
 
-eval("module.exports = {\r\n    firebaseConfig: {\r\n        apiKey: \"AIzaSyAtDKP9YiaDYqv2nWhgLHcXATstLiiVa_I\",\r\n        authDomain: \"fir-tutorial-5fd63.firebaseapp.com\",\r\n        databaseURL:\r\n            \"https://fir-tutorial-5fd63-default-rtdb.asia-southeast1.firebasedatabase.app\",\r\n        projectId: \"fir-tutorial-5fd63\",\r\n        storageBucket: \"fir-tutorial-5fd63.appspot.com\",\r\n        messagingSenderId: \"862342591646\",\r\n        appId: \"1:862342591646:web:85af73192598cc6396778f\",\r\n    },\r\n    vapidKey: \"\",\r\n};\r\n\n\n//# sourceURL=webpack://firebase-web/./firebase.config.js?");
+eval("module.exports = {\r\n    firebaseConfig: {\r\n        apiKey: \"AIzaSyAbv5eckaL8exToB5qrsuSgbihaAhY4Br4\",\r\n        authDomain: \"iot-platform-dev-c7836.firebaseapp.com\",\r\n        projectId: \"iot-platform-dev-c7836\",\r\n        storageBucket: \"iot-platform-dev-c7836.appspot.com\",\r\n        messagingSenderId: \"357389263602\",\r\n        appId: \"1:357389263602:web:bfbccaa3c3749bb8c6a66b\",\r\n        measurementId: \"G-HB86F0WVY8\",\r\n    },\r\n    vapidKey: \"\",\r\n};\r\n\n\n//# sourceURL=webpack://firebase-web/./firebase.config.js?");
 
 /***/ }),
 
